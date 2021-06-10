@@ -5,7 +5,7 @@ from flask import (
 
 from app.models import Book
 
-main_routes = Blueprint('book', __name__)
+main_routes = Blueprint('main', __name__)
 
 
 @main_routes.route('/')
