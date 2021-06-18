@@ -18,7 +18,7 @@ config.py
 run.py
 ```
 
-代码如下：
+各部分代码如下：
 ```
 # __init__.py
 
